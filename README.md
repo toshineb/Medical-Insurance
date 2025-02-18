@@ -150,9 +150,8 @@ This project is inspired by real-world applications in **health insurance and ri
 
 💡 **Let’s connect!** If you’re passionate about machine learning and predictive analytics, feel free to reach out.
 
-🔗 **GitHub Repo**: [Your Repository Link]  
-📧 **Contact**: [Your Email]  
-🌐 **LinkedIn**: [Your Website]  
+📧 **Contact**: toshineb@gmail.com  
+🌐 **LinkedIn**: (https://www.linkedin.com/in/tosinbellofin/)  
 
 ---
 
